@@ -1,2 +1,14 @@
 # bet-iqy-hub
-HTML page archive and documentation
+
+自动页面托管记录
+
+这里保存静态 HTML 文件，便于后续查找、访问和核对。
+
+## 文件组织
+
+- 根目录承载页面文件
+- README 记录仓库用途与状态
+
+## 查看方式
+
+可以通过仓库文件列表或 GitHub Pages 查看已发布页面。
